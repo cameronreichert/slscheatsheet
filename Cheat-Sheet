@@ -1,0 +1,6 @@
+Description of Problem: X isn’t working ahhh!
+Solution: Make sure everything is plugged securely in before moving to other steps.
+Description of Problem: No network connection, possibly with NIC lights on and NIC enabled in Windows.
+Solution: Reinstall SEP.
+Description of Problem: Trust-relationship error on login.
+Solution: Take computer off domain and re-add it. Possibly have to first delete it in AD, but unlikely.
